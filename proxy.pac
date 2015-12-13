@@ -21,6 +21,7 @@ var rules = [
   "||getuploader.com",
   "hulu.com",
   "huluim.com",
+  "npmjs.org",
   "||hybrid-analysis.com",
   "|http:\/\/www.ilovelongtoes.com\/",
   "||juliepost.com",
